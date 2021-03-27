@@ -1,10 +1,6 @@
 # ESPN CricInfo
-Using PHP Associative Arrays and Array functions
 
-Hey!
-Welcome to my GitHub profile.
-
-Don't forget to checkout the screenshot of the output in "ESPN CricInfo - Screenshot.jpg" file! 
+Using PHP Associative Arrays and Array functions.
 
 The following gives a brief description about the files:
 
@@ -13,4 +9,4 @@ The following gives a brief description about the files:
 3. cricket.php - Contains the PHP code using associative arrays and array functions.
 4. ESPN CricInfo - Screenshot.jpg is the screenshot of the webpage.
 
-
+Tools: Notepad++, XAMPP
